@@ -1,0 +1,9 @@
+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 - key do openAI
+
+Acessar o site da OpenAI e criar a conta, após criar a conta entrar no "Personal" de sua conta, ir em "View API Keys" para criar a chave para utilizar no código.
+
+Antes de construir o ChatBot precisará instalar dois pacotes no prompt de comando:
+pip install openai
+pip install requests
+
+python / GPT-4 / OpenAI
